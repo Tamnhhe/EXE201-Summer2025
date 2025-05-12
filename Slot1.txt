@@ -1,0 +1,19 @@
+Slot 1
+Lưu ý: Slot quan trọng là slot 1,4 và điểm danh chia làm 3 đợt trong 1 slot học online
+
+Check-point 1: Idea Evaluation
+1. Project Nname & Description
+2. Product Concept
+3. Target Customer (B2B/B2C)
+4. Project Evaluation
+    4.1 Innovation: Sản phẩm, dịch vụ của bạn có gì mới, khác biệt so với các sản phẩm, dịch vụ, hiện có trên thị trường?
+        - Công nghệ: Có thể tích hợp AI hỏi đáp
+        - Phân tích dữ liệu lớn có thể hỗ trợ trong Ngân hàng, Cửa hàng bán lẻ, Công nghiệp, Vận chuyển và chuỗi cung ứng, Thể thao, Chăm sóc sức khỏe,...
+    4.2 Feasibility: Lý do thuyết phục thầy cô là ý tưởng của bạn có thể triển khai được trên thực tế?
+    4.3 Big Impact: Sản phẩm dịch vụ bạn giúp giải quyết được vấn đề gì cho xã hội, đóng góp được gì cho kinh tế, môi trường...?
+
+    4.4 Market Size: Qui mô thị trường dự  án bạn nhắm đén có dủ lướn hay không?
+    https://www.mymarketresearchmethods.com/market-sizing/
+
+    4.5 Scale-up Ability: Mô hình kinh doanh của bạn có kế hoạch nhân rộng hơn thành nhiều điểm bán, nhiều users hơn trong tương lai không
+        The 7 core Scale-up Priorities- The Headlines
